@@ -10,6 +10,6 @@ public class SubTest {
     void test() {
         int a = 3;
         int b = 5;
-        assertThat(a + b).isEqualTo(9); // 테스트 실패 예
+        assertThat(a + b).isEqualTo(10); // 테스트 실패 예
     }
 }
